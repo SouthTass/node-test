@@ -47,4 +47,4 @@ function get(url) {
     })
   });
 }
-get(url);
+get(url)
